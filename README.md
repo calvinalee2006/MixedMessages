@@ -4,7 +4,7 @@
 
 click [here](https://calvinalee2006.github.io/MixedMessages/) to checkout the site!
 
-![Portfolio project](images/Screenshot (55).png)
+![Portfolio project](images/Screenshot(55).png)
 
 ### Summary
 This was a minimal project made to use javaScript to create a message lyric generator program. I used HTML, CSS and JavaScript to execute my project and the project does not hold a lot of options for the location, people and drinks.
